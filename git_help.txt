@@ -1,3 +1,11 @@
+# Add new files to git repo
 git add -all
+
+# Commit changes to local git repo
 git commit -m "message"
+
+# Push changes to github
 git push -u origin master
+
+# Pull from github
+git pull
