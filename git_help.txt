@@ -9,3 +9,6 @@ git push -u origin master
 
 # Pull from github
 git pull
+
+# test jekyll site localy
+bundle exec jekyll serve
