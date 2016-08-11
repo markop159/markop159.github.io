@@ -1,4 +1,4 @@
-# My personal development blog hosted on github-site #
+# My personal development blog hosted on github-pages #
 
 <hr>
 
