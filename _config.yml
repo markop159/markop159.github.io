@@ -28,7 +28,7 @@ description: > # this means to ignore newlines until "baseurl:"
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - KODI Popcorn Time: "http://deanattali.com/beautiful-jekyll/"
+    - KODI Popcorn Time: "https://github.com/markop159/KODI-Popcorn-Time"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
   Author's home: "https://markop159.github.io/"

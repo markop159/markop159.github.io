@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: /aboutme/
 subtitle: Why did I start programing
 ---
 
