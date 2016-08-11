@@ -1,5 +1,5 @@
-# Markop159 test jekyll github-site #
+# My personal development blog hosted on github-site #
 
 <hr>
 
-This is currently created for testing purposses only and to learn new things.
+Blog about my hobby projects on GitHub.
