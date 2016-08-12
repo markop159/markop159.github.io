@@ -5,7 +5,7 @@ permalink: /KodiPopcornTime/
 image: KODI-Popcorn-Time.jpg
 ---
 
-<img alt="{{page.title}}" title="{{page.title}}" itemprop="thumbnailUrl" class="left half noborder" src="/img/{{page.image}}">
+<img alt="{{page.title}}" title="{{page.title}}" itemprop="thumbnailUrl" src="/img/{{page.image}}">
 
 ## What it is ##
 With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
