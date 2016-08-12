@@ -2,6 +2,7 @@
 layout: page
 title: KODI Popcorn Time
 permalink: /KodiPopcornTime/
+image: KODI-Popcorn-Time
 ---
 ## What it is ##
 With KODI Popcorn Time you can search for movies that you can see immediately in KODI.
