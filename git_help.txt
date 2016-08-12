@@ -12,3 +12,6 @@ git pull
 
 # test jekyll site localy
 bundle exec jekyll serve
+
+# save credentials for git
+git config --global credential.helper wincred
