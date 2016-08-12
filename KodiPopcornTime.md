@@ -30,8 +30,8 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
 ## Credits ##
 * Fixed KODI Popcorn Time add-on from [Diblo](https://github.com/Diblo/KODI-Popcorn-Time)
 * KODI Popcorn Time is a rewrite of [xbmctorrent](http://github.com/steeve/xbmctorrent).
-* http://github.com/steeve/libtorrent-go
-* http://github.com/steeve/torrent2http
+* [libtorrent-go](http://github.com/steeve/libtorrent-go)
+* [torrent2http](http://github.com/steeve/torrent2http)
 
 ## Changelog ##
 
