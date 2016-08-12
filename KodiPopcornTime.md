@@ -2,7 +2,7 @@
 layout: page
 title: KODI Popcorn Time
 permalink: /KodiPopcornTime/
-image: KODI-Popcorn-Time
+image: KODI-Popcorn-Time.jpg
 ---
 
 <img alt="{{page.title}}" title="{{page.title}}" itemprop="thumbnailUrl" class="left half noborder" src="/img/{{page.image}}">
