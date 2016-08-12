@@ -34,8 +34,8 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
 * http://github.com/steeve/torrent2http
 
 ## Changelog ##
-
 #### KODI Popcorn Time Addon ####
+
 * Ver 1.0.1.b
   - Minor beta update
   - Changed to another provider due to Issue #3 with "action:seed" tested by @freestylemaster
