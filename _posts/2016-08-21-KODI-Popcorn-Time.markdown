@@ -2,7 +2,7 @@
 layout: post
 title:  "KODI Popcorn Time"
 date:   2016-08-21
-categories: blog
+categories: kodi
 image: KODI-Popcorn-Time.jpg
 ---
 <img alt="{{page.title}}" title="{{page.title}}" itemprop="thumbnailUrl" src="/img/{{page.image}}" style="max-width:100%;">
