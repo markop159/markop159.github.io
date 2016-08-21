@@ -28,8 +28,12 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
   - error on some devices due to timeout
 
 ## TODO ##
-  - [x] Resolve timeout Issue
-  - [ ] TV shows section
+    - [x] Resolve timeout Issue
+    - [x] TV shows section
+    - [ ] Next page for TV shows and Anime
+    - [ ] Add 480p selection
+    - [ ] Clean-up settings page
+    - [ ] Clean-up code
 
 ## Credits ##
 * Fixed KODI Popcorn Time add-on from [Diblo](https://github.com/Diblo/KODI-Popcorn-Time)
@@ -40,6 +44,11 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
 ## Changelog ##
 
 #### KODI Popcorn Time Addon ####
+
+* Ver 1.5.0.b
+  - Added TV Shows section
+  - Added Anime Section
+  - Changed API calls
 
 * Ver 1.0.1.b
   - Minor beta update
