@@ -24,16 +24,15 @@ Check out the [Releases](https://github.com/markop159/KODI-Popcorn-Time/tree/mas
 ## Issues ##
 Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Time/issues), or go to [TVADDONS forum](https://forums.tvaddons.ag/addon-releases/47568-kodi-popcorn-time.html) and post there.
 
-* Known issues:
-  - error on some devices due to timeout
-
 ## TODO ##
-    - [x] Resolve timeout Issue
-    - [x] TV shows section
-    - [ ] Next page for TV shows and Anime
-    - [ ] Add 480p selection
-    - [ ] Clean-up settings page
-    - [ ] Clean-up code
+  - [x] Resolve timeout Issue
+  - [x] TV shows section
+  - [x] Next page for TV shows and Anime
+  - [ ] Add 480p selection
+  - [ ] Clean-up settings page
+  - [ ] Clean-up code
+  - [ ] Clean-up media folder
+  - [ ] Metadata for TV-Shows and Anime
 
 ## Credits ##
 * Fixed KODI Popcorn Time add-on from [Diblo](https://github.com/Diblo/KODI-Popcorn-Time)
@@ -44,6 +43,14 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
 ## Changelog ##
 
 #### KODI Popcorn Time Addon ####
+
+* Ver 1.5.1.b
+  - Show more for TV-Shows and Anime section
+  - Cleaned-up settings page (partialy)
+  - Cleaned-up code (partialy)
+  - Fixed Issue #8
+  - Fixed Issue #9
+  - Added some icons
 
 * Ver 1.5.0.b
   - Added TV Shows section
@@ -68,4 +75,4 @@ Please, file an issue :) - [Issues](https://github.com/markop159/KODI-Popcorn-Ti
 ## Need more information ##
 Check out our [WIKI page](https://github.com/markop159/KODI-Popcorn-Time/wiki)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-63872919-1/KODI-Popcorn-Time/readme.md)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-82404831-1/KODI-Popcorn-Time/readme.md)](https://github.com/igrigorik/ga-beacon)
