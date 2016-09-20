@@ -5,7 +5,7 @@ date:   2016-08-21
 categories: kodi
 ---
 
-Today I decided to change the location of my Repository for KODI Popcorn Time
+Today I decided to change the location of my Repository for KODI Popcorn Time.
 
 ### Why?
 
