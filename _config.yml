@@ -31,6 +31,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - KODI Popcorn Time: "KodiPopcornTime"
+    - RTV Slovenia archive: "RtvSlo"
     #- Learn markdown: "http://www.markdowntutorial.com/"
     #- GitHub Pages: "https://pages.github.com/"
   Author's home: "https://markop159.github.io/"
